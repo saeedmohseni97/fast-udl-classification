@@ -32,7 +32,7 @@ The dataset is a **preprocessed MNIST** dataset:
 - Each image is flattened into a vector
 - Files can be loaded directly in MATLAB or Python
 
-📦 [Download dataset on Figshare]([https://doi.org/...](https://figshare.com/articles/dataset/Dataset_for_A_fast_dictionary-learning-based_classification_scheme_using_undercomplete_dictionaries_/29367389))
+📦 [Download dataset on Figshare](https://figshare.com/articles/dataset/Dataset_for_A_fast_dictionary-learning-based_classification_scheme_using_undercomplete_dictionaries_/29367389)
 
 Place downloaded `.mat` files in the `MNIST_Dataset/` directory.
 
